@@ -1,0 +1,25 @@
+:root {
+  --color-white: #ffffff;
+  --color-state-900: #1f314f;
+  --color-state-600: #68778d;
+  --color-state-300: #d5e1ef;
+}
+
+/* body {
+    display: flex;
+    justify-content: center;
+    background-color: var(--color-state-300);
+}
+
+.qr-card {
+    background-color: var(--color-white);
+    width: 320px;
+    height: 499px;
+    padding: 16px;
+    border-radius: 20px;
+}
+
+img {
+    width: 100%;
+    border-radius: 10px;
+} */
